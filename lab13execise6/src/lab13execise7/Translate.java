@@ -1,4 +1,4 @@
-package lab13execise6;
+package lab13execise7;
 
 
 /*

@@ -26,7 +26,7 @@ public class ServerTranslateApplication {
 		int totalRequest = 0;
 
 		// Server needs to be alive forever
-		//while (true) {
+	
 
 			// Message to indicate server is alive
 			serverFrame.updateServerStatus(false);
@@ -72,7 +72,7 @@ public class ServerTranslateApplication {
 			
 			
 
-		//}
+	
 		
 		
 	}
